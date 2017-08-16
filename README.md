@@ -24,3 +24,12 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+
+### Heroku Deploy button
+
+Click the button below to set up this sample app on Heroku:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HariKrR/ionicOFIApp)
+
+
+
